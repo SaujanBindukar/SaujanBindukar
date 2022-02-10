@@ -2,7 +2,7 @@
 
 I'm a Flutter Developer | Freelancer | Learner.
 
-[![Linkedin Badge](https://img.shields.io/badge/-roshandroids-informational?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saujan-bindukar-8b165714b/) [![Github Badge](https://img.shields.io/badge/-roshandroids-informational?style=flat&labelColor=171515&logo=github&logoColor=white)](https://www.github.com/SaujanBindukar/) [![Instagram Badge](https://img.shields.io/badge/-roshandroids-ff69b4?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/saujan_bindukar/) [![Mail Badge](https://img.shields.io/badge/-Roshan%20Shrestha-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sauzanbindukar@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-SaujanBindukar-informational?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saujan-bindukar-8b165714b/) [![Github Badge](https://img.shields.io/badge/-SaujanBindukar-informational?style=flat&labelColor=171515&logo=github&logoColor=white)](https://www.github.com/SaujanBindukar/) [![Instagram Badge](https://img.shields.io/badge/-SaujanBindukar-ff69b4?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/saujan_bindukar/) [![Mail Badge](https://img.shields.io/badge/-SaujanBindukar-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sauzanbindukar@gmail.com)
 
 <!-- TODO: Add last video link -->
 
